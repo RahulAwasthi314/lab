@@ -7,3 +7,6 @@
 [submodule "stencil-component-lib"]
 	path = stencil-component-lib
 	url = https://github.com/RahulAwasthi314/stencil-component-lib.git
+[submodule "Microservices_Template"]
+	path = Microservices_Template
+	url = https://github.com/RahulAwasthi314/Microservices_Template
