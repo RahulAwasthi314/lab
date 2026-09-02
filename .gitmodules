@@ -1,3 +1,6 @@
 [submodule "leavemanagerapp"]
 	path = leavemanagerapp
 	url = https://gitlab.com/RahulAwasthi314/leavemanagerapp
+[submodule "meal-planner-svelte"]
+	path = meal-planner-svelte
+	url = https://github.com/RahulAwasthi314/meal-planner-svelte.git
