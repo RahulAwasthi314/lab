@@ -4,3 +4,6 @@
 [submodule "meal-planner-svelte"]
 	path = meal-planner-svelte
 	url = https://github.com/RahulAwasthi314/meal-planner-svelte.git
+[submodule "stencil-component-lib"]
+	path = stencil-component-lib
+	url = https://github.com/RahulAwasthi314/stencil-component-lib.git
