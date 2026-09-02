@@ -1,0 +1,3 @@
+[submodule "leavemanagerapp"]
+	path = leavemanagerapp
+	url = https://gitlab.com/RahulAwasthi314/leavemanagerapp
