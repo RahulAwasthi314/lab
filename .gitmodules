@@ -10,3 +10,6 @@
 [submodule "Microservices_Template"]
 	path = Microservices_Template
 	url = https://github.com/RahulAwasthi314/Microservices_Template
+[submodule "DotnetConcepts"]
+	path = DotnetConcepts
+	url = https://github.com/RahulAwasthi314/DotnetConcepts
