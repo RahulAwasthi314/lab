@@ -13,3 +13,6 @@
 [submodule "DotnetConcepts"]
 	path = DotnetConcepts
 	url = https://github.com/RahulAwasthi314/DotnetConcepts
+[submodule "concepts"]
+	path = concepts
+	url = https://github.com/RahulAwasthi314/concepts
